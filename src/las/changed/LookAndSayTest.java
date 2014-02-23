@@ -1,4 +1,4 @@
-package las;
+package las.changed;
 
 import static org.junit.Assert.*;
 
